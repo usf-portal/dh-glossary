@@ -1,0 +1,16 @@
+title: Hacking Historical Texts
+description: Course workbook for Hacking Historical Texts (HIS4936) @ The University of South Florida
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CHANGELOG.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - LICENSE
+  - PULL_REQUEST_TEMPLATE.md
+  - README.md
+theme: jekyll-theme-dinky
